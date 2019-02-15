@@ -1,4 +1,4 @@
-delted the repro for some reason a while ago, - reupload.
+ deleted the repro for some reason a while ago, - reupload.
 
 
 # Sammelsurium Processing Hacks
